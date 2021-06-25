@@ -1,5 +1,5 @@
 # Samp-Server
-_This is a repository of my gamemode of the server for SAMP that I am developing. Simply put all these files inside the blank base folder of the samp server 📖. <br>
+_This is a repository of my gamemode of the server for SAMP that I am developing. Simply put all these files inside the blank base folder of the samp server 📖._
 
 ## Starting 🚀
 
