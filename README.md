@@ -74,7 +74,7 @@ For all available versions, see the [tags in this repository](https://github.com
 
 You can also check the list of [credits](https://github.com/SedaxMx/Samp-Server/contributors) of the plugins that were used in the development of the gamemode.
 
-## Licencia 📄
+## License 📄
 
 This project is licensed under the License (License) - see the file [LICENSE.md](LICENSE.md) for details.
 
